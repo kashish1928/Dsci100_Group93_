@@ -2,7 +2,7 @@
 
 
 
-## MEMBERS
+# MEMBERS
 
 - Kashish Joshipura
 - Willis Cao
@@ -11,3 +11,4 @@
 
 # CONTENTS
 
+- [Group Contract](Group_Contract.md)
