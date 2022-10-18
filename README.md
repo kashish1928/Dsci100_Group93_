@@ -2,9 +2,9 @@
 
 
 
-##Members
+## Members
 
-Kashish Joshipura
-Willis Cao
-Swapnil Dubey
-Zetong Wu
+- Kashish Joshipura
+- Willis Cao
+- Swapnil Dubey
+- Zetong Wu
