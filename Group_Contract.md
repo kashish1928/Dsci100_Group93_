@@ -1,4 +1,4 @@
-GOALS
+ # GOALS
 
 1. Submit quality work on time.
 
@@ -6,22 +6,22 @@ GOALS
 
 3. Data analysis skills, teamwork, version control.
 
-EXPECTATIONS
+# EXPECTATIONS
 
 1. All members should contribute equally and be present at all meetings previously agreed upon. Transparent and frequent communication at least every week.
 
-POLICIES & PROCEDURES
+# POLICIES & PROCEDURES
 
 1. When dividing a task, only submit work if everyone agrees. Finish all work by agreed deadlines or before meetings.
 
-CONSEQUENCES
+# CONSEQUENCES
 
 1. We will discuss with any group member that is not contributing properly. If we do not come to a common ground we will contact the TA/instructor and leave the appropriate feedback in the team feedback submission at the end of the project.
 
  
 
-Signed:
-Willis Cao
-Kashish Joshipura
-Swapnil Dubey
-Zetong Wu
+# Signed:
+- Willis Cao
+- Kashish Joshipura
+- Swapnil Dubey
+- Zetong Wu
