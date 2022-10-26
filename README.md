@@ -13,4 +13,4 @@
 
 - [Group Contract](Group_Contract.md)
 - [Group Proposal](Project_Proposal.ipynb)
-- [Dataset](water_potability.csv)
+- [Dataset](data/water_potability.csv)
